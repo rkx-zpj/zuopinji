@@ -33,6 +33,6 @@ PC UI
 <img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/19.jpg"/> 
 <img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/20.jpg"/> 
 <img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/21.jpg"/> 
-<img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/22.jpg"/> 
+<img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/22.png"/> 
 END 
 <img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/23.jpg"/> 
