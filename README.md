@@ -16,7 +16,7 @@
 ### 活动 
 <img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/8.jpg"/> 
 ### PC UI 
-<img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/9jpg"/> 
+<img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/9.jpg"/> 
 ### 女装电商网页 
 <img src="https://github.com/rkx-zpj/zuopinji/blob/master/images/10.jpg"/> 
 ### 公司主页 
